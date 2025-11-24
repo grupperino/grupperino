@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @grupperino
-- 👀 I’m interested in dd
-- 🌱 I’m currently learning dd
-- 💞️ I’m looking to collaborate on dd
-- 📫 How to reach me dd
-- 😄 Pronouns: dd
-- ⚡ Fun fact: dd
+Filip Vavrek
+
+Studying Computer Science at Technical Univeristy of Košice :)
 
 <!---
 grupperino/grupperino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
